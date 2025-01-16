@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>images/back.jpg</file>
+        <file>images/dilim_karpuz.png</file>
+        <file>images/karpuz.png</file>
+        <file>images/duman.png</file>
+        <file>images/bomba.png</file>
+        <file>images/hediye.png</file>
+        <file>images/+5 time.png</file>
+        <file>images/-5 time.png</file>
+    </qresource>
+</RCC>
